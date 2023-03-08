@@ -1,0 +1,44 @@
+.header-title h1 {
+    font-size: 18pt;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+.header-title h1, h3 {
+    color: #007F49;
+}
+table, td, p, div, a {
+    font-size: 12px;
+}
+body {
+    font-size: 13px;
+    line-height: 1.4em;
+    color: #21536a;
+    font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+}
+#head1 {
+    position: fixed;
+    text-align: center;
+    width: 20%;
+    top: 0;
+    left: 0;
+    background-color: #ddf1df;
+}
+#head2 {
+    position: fixed;
+    text-align: left;
+    width: 40%;
+    top: 0;
+    left: 20%;
+    background-color: #ddf1df;
+    height: 83px;
+}
+#head3 {
+    position: fixed;
+    text-align: right;
+    width: 40%;
+    top: 0;
+    right: 0;
+    background-color: #ddf1df;
+    height: 83px;
+}

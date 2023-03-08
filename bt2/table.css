@@ -1,0 +1,75 @@
+td {
+    text-align: center;
+}
+button {
+    background-color: darkgray;
+}
+#mngpoint {
+    width: 100%;
+    height: 25px;
+    right: 0;
+    text-align: center;
+    font-size: 15px;
+    background-color: #d0cfcf;
+    margin-top: 75px;
+    position: fixed;
+}
+#sidebar{
+    border: 1px;
+    border-spacing: 1px;
+    width: 19%;
+    height: 330px;
+    left: 0;
+    background-color: #d0cfcf;
+    margin-top: 120px;
+    position: fixed;
+}
+#addinfor {
+    width: 80%;
+    float: right;
+    background-color: powderblue;
+    margin-top: 120px;
+
+}
+#note {
+    text-align: left;
+}
+
+#table1 {
+    border: 1px;
+    width: 80%;
+    border-spacing: 1px;
+    float: right;
+    margin-bottom: 80px;
+}
+#table2 {
+    border: 1px;
+    width: 80%;
+    border-spacing: 1px;
+}
+#name1 {
+    text-align: left;
+    width: 25%;
+}
+#output1 {
+    text-align: left;
+    background-color: powderblue;
+}
+#output2 {
+    text-align: left;
+    background-color: powderblue;
+}
+#output3 {
+    text-align: left;
+    background-color: powderblue;
+}
+#output4 {
+    text-align: left;
+    background-color: powderblue;
+}
+#sidebar tr td {
+    cursor: pointer;
+}
+#sidebar tr td:hover {
+    color: brown;
+}
